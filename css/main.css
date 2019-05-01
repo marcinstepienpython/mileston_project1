@@ -1,0 +1,39 @@
+body h1 {
+  font-family: "Bangers", cursive;
+}
+
+body p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.bg-custom {
+  background-color: #000000;
+}
+
+.navbar {
+  font-family: "Bangers", cursive;
+  font-size: 1.5rem;
+}
+
+.navbar .navbar-brand {
+  font-size: 1.5rem;
+}
+
+.main-content {
+  background-image: url("../img/monkees1.jpg");
+  background-size: cover;
+  height: 80vh;
+  width: 100%;
+  color: white;
+  font-size: 2rem;
+}
+
+.footer {
+  background-color: #000000;
+  color: #fff;
+  font-size: 2rem;
+}
+
+.footer .fab {
+  color: rgb(114, 106, 106);
+}
