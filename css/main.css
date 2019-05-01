@@ -20,18 +20,36 @@ body p {
 }
 
 .main-content {
-  background-image: url("../img/monkees1.jpg");
+  background-image: url("../img/monkees2.jpg");
   background-size: cover;
   height: 80vh;
   width: 100%;
   color: white;
-  font-size: 2rem;
+  font-size: 1rem;
+}
+
+.main-content h1 {
+  font-family: "Bangers", cursive;
+  letter-spacing: 3px;
+  font-size: 4rem;
+}
+.main-content-selling {
+  height: 80vh;
 }
 
 .social {
   font-size: 1.5rem;
+  height: 6vh;
 }
 
 .social .fab {
   color: #272626;
+}
+
+@media only screen and (max-width: 600px) {
+  .main-content h1 {
+    font-family: "Bangers", cursive;
+    letter-spacing: 3px;
+    font-size: 3rem;
+  }
 }
