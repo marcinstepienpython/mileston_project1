@@ -28,12 +28,10 @@ body p {
   font-size: 2rem;
 }
 
-.footer {
-  background-color: #000000;
-  color: #fff;
-  font-size: 2rem;
+.social {
+  font-size: 1.5rem;
 }
 
-.footer .fab {
-  color: rgb(114, 106, 106);
+.social .fab {
+  color: #272626;
 }
