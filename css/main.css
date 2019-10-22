@@ -139,4 +139,7 @@ body p {
   .news {
     flex-direction: column;
   }
+  .band-members {
+    flex-direction: column;
+  }
 }
