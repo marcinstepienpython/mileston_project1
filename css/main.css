@@ -20,9 +20,11 @@ body p {
 }
 
 .main-content {
+  display: flex;
+  flex-direction: column;
   background-image: url("../img/monkees2.jpg");
   background-size: cover;
-  height: 80vh;
+
   width: 100%;
   color: white;
   font-size: 1rem;
@@ -66,13 +68,46 @@ body p {
   color: #272626;
 }
 
+/* news */
+
+.news {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  /* height: 80vh; */
+}
+
+.news-item {
+  padding: 15px;
+  padding-bottom: 10px;
+}
+
+.news-image img {
+  padding-top: 15px;
+  height: 300px;
+}
+
+.news-header {
+  font-family: "Bangers", cursive;
+  font-size: 3rem;
+}
+
 @media only screen and (max-width: 600px) {
-  .main-content h1 {
+  /* .main-content h1 {
     font-family: "Bangers", cursive;
     letter-spacing: 3px;
     font-size: 3rem;
   }
   .band-content h3 {
     font-size: 2rem;
+  } */
+
+  .main-content {
+    background-image: none;
+    background-color: #000;
+  }
+
+  .news {
+    flex-direction: column;
   }
 }
