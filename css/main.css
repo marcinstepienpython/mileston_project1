@@ -108,6 +108,19 @@ body p {
   display: flex;
 }
 
+.band-members img {
+  height: 150px;
+  text-align: center;
+  padding: 15px;
+}
+
+.band-members {
+  display: flex;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  justify-content: center;
+}
+
 @media only screen and (max-width: 600px) {
   /* .main-content h1 {
     font-family: "Bangers", cursive;
