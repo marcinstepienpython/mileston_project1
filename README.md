@@ -32,7 +32,7 @@ USER SCENARIOS:
 
 ## Features
 
-The website provides visitors with easy to access
+The website makes it easy for visitors to purchase tickets, albums and book the band for private shows. The info about the band and news are also accessible.
 
 ### Existing Features
 
