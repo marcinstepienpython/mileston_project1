@@ -1,8 +1,8 @@
-body h1 {
+h1 {
   font-family: "Bangers", cursive;
 }
 
-body p {
+p {
   font-family: "Open Sans", sans-serif;
 }
 
@@ -56,7 +56,7 @@ body p {
   width: 100%;
   color: white;
 }
-.band-content h3 {
+h3 {
   font-family: "Bangers", cursive;
   letter-spacing: 3px;
   font-size: 4rem;

@@ -32,7 +32,15 @@ USER SCENARIOS:
 
 ## Features
 
+The website provides visitors with easy to access
+
 ### Existing Features
+
+The website sections and subpages:
+
+- Showcase photos, audio and video clips from the band's catalog.
+- Publicise the band's upcoming shows and/or availability to perform at events such as weddings and corporate parties.
+- Provide links to external resources, such as the band's social media profiles (can point anywhere at all).
 
 ### Features Left to Implement
 
@@ -69,21 +77,32 @@ Basic set-up:
 Layout:
 
 1. Testing site responsiveness:
+
    - google developer tools:
      - site has been tested on all available devices (Galaxy, iPhone, iPad)
    - mobile phones (Huawei P8, iPhone 8, iPhone 6)
    - tablets (Samsung Galaxy Tab)
 
+2. Validators
+   The page has been validated using the following tools:
+
+- (html) https://validator.w3.org/ => Document checking completed. No errors or warnings to show.
+- (css) https://jigsaw.w3.org/css-validator/
+
 ## Deployment
 
 The Application has been deployed to GitHub Pages. There is no difference between development and production version of the system. No environemnt variables have been used.
 
-The application is available here: https://marcinstepienpython.github.io/project2/
+Deployment log:
+
+- c98ad8d was deployed by GitHub Pages
+
+The application is available here: https://marcinstepienpython.github.io/mileston_project1/
 
 ### Content
 
+The page uses information found on Wikipedia. It applies to the section about band history. All the info has been copied from Wikipedia.
+
 ### Media
 
-### Acknowledgements
-
-- I received inspiration for this project mainly from my own experience in using the Internet as a source of information for travel destination.
+The page usues images related to google search about The Monkees. Some of the images have been provided by Code Institute. Video files and MP3 files have been provided by Code Institute.
