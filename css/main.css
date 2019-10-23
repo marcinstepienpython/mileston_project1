@@ -127,6 +127,10 @@ h3 {
   height: 300px;
 }
 
+video {
+  width: 100%;
+}
+
 @media only screen and (max-width: 600px) {
   .main-content {
     background-image: none;
