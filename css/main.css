@@ -121,6 +121,12 @@ h3 {
   justify-content: center;
 }
 
+/* albums */
+
+.albums-list img {
+  height: 300px;
+}
+
 @media only screen and (max-width: 600px) {
   .main-content {
     background-image: none;
