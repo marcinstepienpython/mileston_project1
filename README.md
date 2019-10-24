@@ -80,6 +80,9 @@ HolidayPal uses following frameworks:
 
   - The project uses **JQuery** to simplify DOM manipulation.
 
+- [Font Awesome](https://fontawesome.com)
+  - The project uses **Font Awesome** for displaying beautiful fonts.
+
 The site has been created using:
 
 - HTML
