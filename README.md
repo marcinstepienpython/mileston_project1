@@ -86,8 +86,9 @@ Layout:
 2. Validators
    The page has been validated using the following tools:
 
-- (html) https://validator.w3.org/ => Document checking completed. No errors or warnings to show.
-- (css) https://jigsaw.w3.org/css-validator/
+- (html) https://validator.w3.org/ => resulted in: Document checking completed. No errors or warnings to show.
+- (html) https://html5.validator.nu/ => resulted in: The document is valid HTML5 + ARIA + SVG 1.1 + MathML 2.0 (subject to the utter previewness of this service).
+- (css) https://jigsaw.w3.org/css-validator/ => resulted in: W3C CSS Validator results for https://marcinstepienpython.github.io/mileston_project1/css/main.css (CSS level 3 + SVG) => Congratulations! No Error Found.
 
 ## Deployment
 
@@ -98,6 +99,10 @@ Deployment log:
 - c98ad8d was deployed by GitHub Pages
 
 The application is available here: https://marcinstepienpython.github.io/mileston_project1/
+
+Deployment issues:
+
+- relative links in the main navigation fixed through "./[pagename.html]" path.
 
 ### Content
 
