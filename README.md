@@ -2,6 +2,8 @@
 
 Project idea was to build a website for a rock band. The webpage contains info about the group, band members and upcoming events. The visitors have an opportunity to book the band for a private show, book tickets for live preformances and buy all currently available albums.
 
+The website is available here: https://marcinstepienpython.github.io/mileston_project1/
+
 ## UX
 
 The Monkees website is a simple design consising of three sections.
@@ -20,15 +22,23 @@ THE LAYOUT:
 
 - DISPLAY SECTION:
 
-  - Displaying main content of given sub-page
+  - Displaying main content of given sub-page => eg. news, book form, concerts dates and tickets links.
 
 - SOCIAL LINKS:
 
-  - Displaying links to all social platforms related to the band.
+  - Displaying links to all social platforms related to the band (facebook, instagram, twitter).
 
 USER SCENARIOS:
 
-1.
+1. Buy tickets: visitors can see 'buy tickets' link right on the main page. Apart from 'news' buying tickets will be the most frequent action on the page. Users have also special section dedicated to buying tickets for upcomming events.
+
+2. Book the band for wedding/party: visitors have dedicatted section (book.html) for booking the band for private events. In future the section will be upgraded with calendar for viewing possible private shows dates.
+
+3. Buy album(s): visitors will find dedicated section (albums.html) where they can listen to sample music and buy band's albums on amazon.com.
+
+4. Learn about the band: visitors will find a dedicated section (band.html) with band's history and info about current band members. Sample music and recent band's videos are available to listen/watch.
+
+5. Check the news: dedicated section (news.html) for updates and press coverage.
 
 ## Features
 
@@ -43,6 +53,14 @@ The website sections and subpages:
 - Provide links to external resources, such as the band's social media profiles (can point anywhere at all).
 
 ### Features Left to Implement
+
+Shop:
+
+- It would be a good idea to implement own shop, where vistors might purchase band's related products (t-shirts, posters, dvds).
+
+Calendar:
+
+- Implementation of a booking system where visitors might find open time spots for possible private shows.
 
 ## Technologies Used
 
@@ -71,8 +89,7 @@ The site has been created using:
 Basic set-up:
 
 1. Added boostrap framework and tested by creating simple container and jumbotron classes.
-2. Added font-awesome and tested by displaying icons.
-3.
+2. Added google fonts and tested Fixed the '|' issues in rel link.
 
 Layout:
 
