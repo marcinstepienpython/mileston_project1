@@ -2,6 +2,8 @@
 
 Project idea was to build a website for a rock band. The webpage contains info about the group, band members and upcoming events. The visitors have an opportunity to book the band for a private show, book tickets for live preformances and buy all currently available albums.
 
+![alt text](https://marcinstepienpython.github.io/mileston_project1/img/the_monkees_front.png)
+
 The website is available here: https://marcinstepienpython.github.io/mileston_project1/
 
 ## UX
